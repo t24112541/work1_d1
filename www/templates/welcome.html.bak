@@ -1,0 +1,11 @@
+<div class="bar bar-header bar-dark">
+			<a class="button icon-right ion-search button-clear button-white" ui-sref="search"></a>
+			<h1 class="title">tHeSySTem</h1>
+			<button class="button button-icon icon ion-navicon" ui-sref="manage"></button>
+</div>
+<div class="list  has-subheader ">
+<a href="https://www.google.co.th/">ddddddd</a>
+</div>
+<div class="list  has-subheader ">
+		<center><h1>Welcome!!! </h1></center>
+</div>

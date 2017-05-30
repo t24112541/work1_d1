@@ -1,0 +1,30 @@
+<div class="bar bar-header bar-dark">
+  <h1 class="title">tHeSySTem</h1>
+</div>
+<div class="list has-subheader">
+  <label class="item item-input">
+    <span class="input-label">Username</span>
+    <input type="text">
+  </label>
+  <label class="item item-input">
+    <span class="input-label">Password</span>
+    <input type="password">
+  </label>
+</div>
+
+<a ui-sref="welcome">
+		<button class="button button-block  button-balanced button-positive  has-subheader">
+			  Login
+		</button>
+</a>
+
+<a ui-sref="register">
+	<div class="list has-subheader">
+		 <p align = "right">	Register </p>
+	</div>
+</a>
+<a ui-sref="facebook">
+	<div class="list has-subheader">
+		 <p align = "right">	facebook </p>
+	</div>
+</a>
